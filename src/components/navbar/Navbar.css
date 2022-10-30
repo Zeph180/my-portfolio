@@ -1,0 +1,36 @@
+#nav-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+#nav-logo {
+    background-color: pink;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    justify-self: center;
+        margin-top: 10px;
+}
+
+#nav-list {
+    background-color: #022253;
+    width: fit-content;
+    height: 30px;
+    padding-left: 0;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+.nav-list-item {
+    display: inline-block;
+    padding-left: 20px;
+    margin-right: 40;
+}
+
+.nav-link {
+    color: #9CC8E1;
+    text-decoration: none;
+}
