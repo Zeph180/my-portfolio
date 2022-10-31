@@ -3,7 +3,7 @@ import React from "react";
 const AboutPage = () => {
 	return (
 		<div>
-			<p>About</p>
+			<p style={{color: "pink"}}>About</p>
 		</div>
 	);
 };
