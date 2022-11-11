@@ -8,3 +8,9 @@
    background-size: cover;
    background-position: center;
  }
+ .lines {
+   border-left-width: 20px;
+   border-left-color: red;
+   background-color: pink;
+   margin-left: 30px;
+ }

@@ -39,8 +39,8 @@ function App() {
 						{/* <Route path="/resume" element=<AboutPage /> /> */}
 					</Routes>
 				</div>
-				<div>
-					<p>fehbkrgrfguifr</p>
+				<div className="lines">
+					<p>hhfhfh</p>
 				</div>
 			</div>
 		</BrowserRouter>
